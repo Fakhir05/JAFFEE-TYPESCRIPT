@@ -342,7 +342,7 @@ Contributions, issues, and feature requests are welcome!
 
 **Fakhir Asghar**
 - GitHub: [@Fakhir05](https://github.com/Fakhir05)
-- Repository: [Fakhir05/JAFFEE-TYPESCRIPT](https://github.com/Fakhir05/JAFFEE)
+- Repository: [Fakhir05/JAFFEE-TYPESCRIPT](https://github.com/Fakhir05/JAFFEE-TYPESCRIPT)
 
 ---
 
