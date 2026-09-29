@@ -38,7 +38,7 @@
   - [⌨️ User Experience \& Shortcuts](#️-user-experience--shortcuts)
   - [🔮 Roadmap \& Future Enhancements](#-roadmap--future-enhancements)
   - [🤝 Contributing](#-contributing)
-  - [�‍💻 Author](#-author)
+  - [👨‍💻 Author](#-author)
   - [📄 License](#-license)
 
 ---
@@ -342,7 +342,7 @@ Contributions, issues, and feature requests are welcome!
 
 **Fakhir Asghar**
 - GitHub: [@Fakhir05](https://github.com/Fakhir05)
-- Repository: [Fakhir05/JAFFEE](https://github.com/Fakhir05/JAFFEE)
+- Repository: [Fakhir05/JAFFEE-TYPESCRIPT](https://github.com/Fakhir05/JAFFEE)
 
 ---
 
