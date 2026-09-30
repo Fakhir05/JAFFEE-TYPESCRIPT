@@ -166,6 +166,16 @@ li a:hover {
 
 }
 
+.mobile-menu a{
+    color: var(--text);
+
+}
+
+.mobile-menu a:hover {
+    color: var(--text2);
+
+}
+
 .history-icon {
     position: fixed;
     bottom: 25px;
